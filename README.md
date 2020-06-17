@@ -1,2 +1,2 @@
-# QEX-July-August-Multifunction-Project
+# Multifunction-Project (QEX July/August 2020)
 A Simple and Inexpensive Auto-Calibrating Multifunction Project (QEX July/August 2020)  This is a menu driven multifunction project that includes a band switched two channel 110 kHz – 112.5 MHz VFO,  band switched 6 – 2200 m WSPR source,  0 – 6.5  MHz frequency counter, and a clock that displays time, date, and temperature. Frequency and time accuracy are maintained by a highly accurate temperature compensated DS3231 real time clock (RTC) board.
